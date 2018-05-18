@@ -1,0 +1,26 @@
+body{
+    color: red;
+}p{
+    font-size: 2em;
+}li {
+  color: pink; }
+  li a {
+    text-align: center; }
+
+    ::-webkit-input-placeholder{
+        font-size: 80%;
+    }
+
+    :-ms-input-placeholder{
+        font-size: 80%;
+    }
+
+    ::-ms-input-placeholder{
+        font-size: 80%;
+    }
+
+    ::placeholder{
+        font-size: 80%;
+    }
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFsbC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7SUFDSSxXQUFXO0NBQ2Q7SUFDRyxlQUFlO0NBQ2xCO0VBQ0MsWUFBWSxFQUFFO0VBQ2Q7SUFDRSxtQkFBbUIsRUFBRTs7SUFFckI7UUFDSSxlQUFlO0tBQ2xCOztJQUZEO1FBQ0ksZUFBZTtLQUNsQjs7SUFGRDtRQUNJLGVBQWU7S0FDbEI7O0lBRkQ7UUFDSSxlQUFlO0tBQ2xCIiwiZmlsZSI6ImFsbC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJib2R5e1xuICAgIGNvbG9yOiByZWQ7XG59cHtcbiAgICBmb250LXNpemU6IDJlbTtcbn1saSB7XG4gIGNvbG9yOiBwaW5rOyB9XG4gIGxpIGEge1xuICAgIHRleHQtYWxpZ246IGNlbnRlcjsgfVxuXG4gICAgOjpwbGFjZWhvbGRlcntcbiAgICAgICAgZm9udC1zaXplOiA4MCU7XG4gICAgfVxuIl19 */
